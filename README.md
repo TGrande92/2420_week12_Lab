@@ -24,7 +24,8 @@ ss here
 restart your service and test it
 ss here
 
-ss here
+![image](https://user-images.githubusercontent.com/97579029/204071135-90e63114-801f-49e7-80fc-80e64daee593.png)
+
 
 then lets setup a firewall
 
