@@ -22,7 +22,8 @@ then, we will give directory permissions and add a user group to the directory f
 ss here
 
 restart your service and test it
-ss here
+![image](https://user-images.githubusercontent.com/97579029/204071092-f96c538c-5fd2-4abb-8cee-880bc5addedd.png)
+
 
 ss here
 
