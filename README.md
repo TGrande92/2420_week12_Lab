@@ -8,7 +8,8 @@ ss here
 cool with that we will start with creating an html page
 
 using the mkdir command, im using the ip-address of my droplet as the name of the directory for my files
-ss here
+![image](https://user-images.githubusercontent.com/97579029/204070758-15960f94-f911-40bf-93e1-4ef6bb6190cf.png)
+
 
 using wsl we will make an index.html for our base text and write our nginx server block. The nginx server block will include my droplet ip address which will be used to view the index.html page. We will use sftp to transfer this to our droplet.
 ss here
