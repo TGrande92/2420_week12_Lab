@@ -3,7 +3,8 @@
 Step 1, create a new droplet using digital ocean
 
 Step 2, install nginx and verify its status
-ss here
+![image](https://user-images.githubusercontent.com/97579029/204070558-eb884651-a3f3-4e41-9c7b-554b1eb999ca.png)
+
 
 cool with that we will start with creating an html page
 
